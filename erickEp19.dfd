@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'ingresar placa'
+5
+1
+5
+placa
+4
+1
+17
+'ingresar modelo'
+5
+1
+6
+modelo
+7
+1
+1
+62
+(placa>=5000 and placa<=8000) and (modelo=1958 or modelo=1959)
+4
+1
+19
+'Puede interesarle'
+13
+4
+1
+16
+'No le interesa'
+13
+1
