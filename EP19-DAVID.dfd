@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+20
+numPlaca, modeloAuto
+7
+1
+1
+33
+numPlaca>=5000 and numPlaca<=8000
+7
+1
+1
+34
+modeloAuto=1958 or modeloAuto=1959
+4
+1
+85
+"Si contamos con el vehiculo numero de placa: ",numPlaca, " y el modelo: ",modeloAuto
+13
+4
+1
+115
+"Si contamos con el vehiculo numero de placa: ",numPlaca, " pero no con el modelo: ",modeloAuto, " de ese vehiculo"
+13
+13
+7
+0
+1
+34
+modeloAuto=1958 or modeloAuto=1959
+4
+1
+118
+"No contamos con el vehiculo numero de placa: ",numPlaca, " ni tampoco con el modelo: ",modeloAuto, " de ese vehiculo"
+13
+4
+1
+115
+"No contamos con el vehiculo numero de placa: ",numPlaca, " pero si con el modelo: ",modeloAuto, " de ese vehiculo"
+13
+13
+1

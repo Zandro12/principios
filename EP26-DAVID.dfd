@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+7
+a, b, c
+7
+1
+1
+17
+a=b or a=c or b=c
+4
+1
+43
+"Error uno o más de los valores se repiten"
+13
+7
+1
+1
+11
+a>b and a>c
+4
+1
+33
+"El numero A: ",a, " es el mayor"
+13
+7
+1
+1
+11
+b>a and b>c
+4
+1
+33
+"El numero B: ",b, " es el mayor"
+13
+7
+1
+1
+11
+c>a and c>b
+4
+1
+33
+"El numero C: ",c, " es el mayor"
+13
+13
+13
+13
+13
+1

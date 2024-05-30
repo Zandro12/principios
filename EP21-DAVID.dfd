@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+34
+salarioActual, categoriaTrabajador
+7
+1
+1
+21
+categoriaTrabajador=1
+6
+2
+7
+aumento
+18
+salarioActual*0.15
+16
+salarioAumentado
+21
+salarioActual+aumento
+4
+1
+181
+"Debido a su categoria: ",categoriaTrabajador, " su aumento de salario es de un 15% entonces su antiguo salario era de: ",salarioActual, " su nuevo salario es de: ",salarioAumentado
+13
+7
+1
+1
+21
+categoriaTrabajador=2
+6
+2
+7
+aumento
+18
+salarioActual*0.20
+16
+salarioAumentado
+21
+salarioActual+aumento
+4
+1
+181
+"Debido a su categoria: ",categoriaTrabajador, " su aumento de salario es de un 20% entonces su antiguo salario era de: ",salarioActual, " su nuevo salario es de: ",salarioAumentado
+13
+6
+2
+7
+aumento
+18
+salarioActual*0.25
+16
+salarioAumentado
+21
+salarioActual+aumento
+4
+1
+181
+"Debido a su categoria: ",categoriaTrabajador, " su aumento de salario es de un 25% entonces su antiguo salario era de: ",salarioActual, " su nuevo salario es de: ",salarioAumentado
+13
+13
+1
