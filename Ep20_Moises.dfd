@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+lujo
+6
+200000
+7
+turismo
+6
+100000
+8
+negocios
+5
+75000
+5
+1
+15
+categoria, dias
+7
+1
+1
+18
+categoria = "lujo"
+6
+2
+8
+impuesto
+16
+(lujo*dias)*0.13
+5
+total
+18
+lujo*dias+impuesto
+13
+7
+1
+1
+21
+categoria = "turismo"
+6
+2
+8
+impuesto
+19
+(turismo*dias)*0.13
+5
+total
+21
+turismo*dias+impuesto
+13
+7
+1
+1
+21
+categoria ="negocios"
+6
+2
+8
+impuesto
+20
+(negocios*dias)*0.13
+5
+total
+22
+negocios*dias+impuesto
+13
+4
+1
+28
+"No a elegido una categoria"
+13
+13
+13
+4
+1
+32
+"Su monto a pagar es de: ",total
+1

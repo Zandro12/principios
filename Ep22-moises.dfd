@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+21
+prestamo, cantidadmes
+6
+3
+3
+mes
+14
+prestamos*0.03
+8
+totalmes
+15
+cantidadmes*mes
+13
+totalprestamo
+18
+prestamos+totalmes
+4
+1
+75
+"El total del prestamo es de: ",totalprestamo, " ya con total de intereses"
+1
