@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+"Ingrese la categoria del empleado y su salario actual"
+5
+1
+24
+categoria, salarioActual
+7
+0
+1
+13
+categoria  =1
+7
+0
+1
+12
+categoria =2
+6
+1
+12
+salarioNuevo
+18
+salarioActual*1.25
+13
+6
+1
+12
+salarioNuevo
+18
+salarioActual*1.20
+13
+13
+6
+1
+12
+salarioNuevo
+18
+salarioActual*1.15
+13
+4
+1
+52
+"El nuevo salario del empleado es de: ",salarioNuevo
+1
