@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+96
+'a continuacion vamos a calcular el precio medio de un producto en 3 establecimientos distintos'
+4
+1
+22
+'digite los 3 precios'
+5
+1
+16
+pre1, pre2, pre3
+6
+1
+5
+media
+18
+(pre1+pre2+pre3)/3
+4
+1
+29
+'el precio medio es: ', media
+1

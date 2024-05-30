@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'calculo de precio de venta'
+5
+1
+5
+costo
+6
+3
+4
+vend
+10
+costo*0.17
+4
+suma
+10
+vend+costo
+4
+impu
+17
+(costo+vend)*0.13
+6
+1
+5
+total
+15
+impu+costo+vend
+4
+1
+116
+'el precio total al consumidor es: ', total, ', ganancia del vendedor es: ', vend, ', impuesto de ventas es: ', impu
+1

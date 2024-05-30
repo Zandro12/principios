@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'digite el largo y ancho del terreno'
+5
+1
+12
+largo, ancho
+6
+1
+5
+total
+11
+largo*ancho
+7
+1
+1
+9
+total>100
+4
+1
+38
+'es apto para la construccion ', total
+13
+4
+1
+33
+'no es apto para la construccion'
+13
+1

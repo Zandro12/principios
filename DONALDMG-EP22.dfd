@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+100
+'digite el monto que desea retirar y el plazo en el que guste pagarlo, no más de 12 meses, gracias!'
+4
+1
+8
+'monto:'
+5
+1
+5
+monto
+4
+1
+8
+'plazo:'
+5
+1
+5
+plazo
+7
+1
+1
+22
+plazo>=0 and plazo<=12
+6
+3
+5
+mensu
+11
+monto/plazo
+7
+interes
+10
+mensu*0.03
+5
+total
+13
+mensu+interes
+6
+1
+9
+totalidad
+11
+plazo*total
+4
+1
+176
+'el monto a pagar mensual es: ', total, ', el interes generado es del 3%, por lo tanto es: ', interes, ', y en los ', plazo, ' meses usted pagara la suma total de: ', totalidad
+13
+4
+1
+71
+'digite un plazo valido! ya sea menor a 12 o mayor a 0 meses, gracias!'
+13
+1

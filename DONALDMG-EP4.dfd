@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'vamos averiguar el area de un triangulo'
+4
+1
+45
+'a continuacion digite la base del triangulo'
+5
+1
+4
+base
+4
+1
+17
+'ahora la altura'
+5
+1
+3
+alt
+6
+1
+4
+area
+12
+(base*alt)/2
+5
+0
+4
+1
+49
+'el area del triangulo es: ', area, ' cm cubicos'
+1

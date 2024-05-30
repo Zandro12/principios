@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+pelicu
+3
+400
+4
+1
+72
+'digite la cantidad de peliculas y cantidad de dias que piensa aqluilar'
+5
+1
+10
+dias, peli
+6
+1
+5
+total
+18
+(pelicu*peli)*dias
+4
+1
+23
+'el precio es: ', total
+1

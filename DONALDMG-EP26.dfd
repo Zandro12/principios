@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'digite 3 valores, no pueden ser iguales'
+5
+1
+7
+A, B, C
+7
+1
+1
+11
+A=B and A=C
+4
+1
+19
+'los 3 son iguales'
+13
+7
+1
+1
+11
+A>B and B>C
+4
+1
+41
+'el mayor es: ', A, ' y el menor es: ', C
+13
+7
+1
+1
+11
+B>C and C>A
+4
+1
+41
+'el mayor es: ', B, ' y el menor es: ', A
+13
+7
+1
+1
+11
+C>B and B>A
+4
+1
+41
+'el mayor es: ', C, ' y el menor es: ', A
+13
+7
+1
+1
+11
+C>A and A>B
+4
+1
+41
+'el mayor es: ', C, ' y el menor es: ', B
+13
+7
+1
+1
+11
+B>A and A>C
+4
+1
+41
+'el mayor es: ', B, ' y el menor es: ', C
+13
+4
+1
+41
+'el mayor es: ', A, ' y el menor es: ', B
+13
+13
+13
+13
+13
+13
+1

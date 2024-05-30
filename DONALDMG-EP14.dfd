@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'calculo de nota a partir de 3 notas del estudiante'
+4
+1
+22
+'digite las 3 notas: '
+5
+1
+16
+not1, not2, not3
+6
+1
+4
+prom
+18
+(not1+not2+not3)/3
+7
+1
+1
+8
+prom>=70
+4
+1
+22
+'aprobado con: ', prom
+13
+4
+1
+23
+'reprobado con: ', prom
+13
+1

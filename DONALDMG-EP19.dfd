@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+80
+'ingrese a continuacion el numero de placa y el año correspondiente al vehiculo'
+5
+1
+10
+placa, año
+7
+1
+1
+27
+placa>=5000 and placa<=8000
+7
+1
+1
+23
+año>=1958 and año<=1959
+4
+1
+85
+'este vehiculo con placa ', placa,' y año ', año, ' le interesa al cliente! Gracias!'
+13
+4
+1
+68
+'este vehiculo no cumple el año deseado, no es de interes, gracias!'
+13
+13
+4
+1
+80
+'este vehiculo no cumple el numero de placa deseado, no es de interes, gracias!'
+13
+1

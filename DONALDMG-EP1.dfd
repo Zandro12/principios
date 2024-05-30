@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+'ingrese los 3 numeros de los que quiere saber el promedio'
+5
+1
+10
+n1, n2, n3
+6
+2
+4
+suma
+8
+n1+n2+n3
+4
+prom
+6
+suma/3
+4
+1
+24
+'El promedio es: ', prom
+1

@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'a continuación vamos a invertir dos valores '
+5
+1
+10
+num1, num2
+4
+1
+78
+'el valor del primer numero es: ', num1, ' y el valor del numero 2 es: ', num2
+6
+3
+8
+temporal
+4
+num2
+4
+num2
+4
+num1
+4
+num1
+8
+temporal
+4
+1
+86
+'ahora el primer valor toma el puesto de: ', num1, ' y el segundo valor el de: ', num2
+1

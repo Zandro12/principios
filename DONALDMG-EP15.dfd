@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+'digite un numero entero: '
+5
+1
+6
+entero
+7
+1
+1
+14
+entero mod 1=0
+7
+1
+1
+9
+entero>=0
+6
+1
+4
+raiz
+12
+sqrt(entero)
+4
+1
+57
+'el numero ', entero, ' es positivo y su raiz es: ', raiz
+13
+6
+2
+4
+cuad
+8
+entero^2
+3
+cub
+8
+entero^3
+4
+1
+84
+'el numero ', entero, ' es negativo, al cuadrado es: ', cuad, ' y al cubo es: ', cub
+13
+13
+4
+1
+60
+entero, ' no es un numero entero, ingrese un numero entero!'
+13
+1

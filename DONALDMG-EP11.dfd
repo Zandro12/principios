@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+56
+'calculo de salario a partir de horas y precio por hora'
+5
+1
+13
+salario, hora
+6
+3
+4
+sala
+12
+salario*hora
+5
+deduc
+9
+sala*0.09
+5
+total
+10
+sala-deduc
+4
+1
+46
+'el salario total con la deducion es: ', total
+1

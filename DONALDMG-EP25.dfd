@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'a continuacion digite sus horas y lo que le pagan por hora'
+5
+1
+12
+horas, valor
+6
+1
+5
+bruto
+11
+horas*valor
+7
+1
+1
+13
+bruto<=100000
+6
+2
+10
+porcentaje
+10
+bruto*0.10
+4
+neto
+16
+bruto-porcentaje
+4
+1
+137
+'el salario bruto es de: ', bruto,' y el porcentaje descontado es de 10% que equivale a: ', porcentaje, ', el salario neto es de: ', neto
+13
+6
+3
+6
+exceso
+12
+bruto-100000
+10
+porcentaje
+11
+100000*0.10
+11
+porcentaje2
+11
+exceso*0.15
+6
+1
+4
+neto
+40
+(100000-porcentaje)+(exceso-porcentaje2)
+4
+1
+383
+'el salario es mayor a los 100 mil colones, o sea es de: ', bruto, ' colones por lo tanto despues de los 100 mil hay un exceso de: ', exceso, ', colones al que se le aplicara un rebajo del 15% que equivale a: ', porcentaje2, ', más el rebajo del 10% o sea: ', porcentaje, ' que comunmente se le aplica a los salarios igual a 100 mil, el salario neto con los rebajos seria de: ', neto
+13
+1
