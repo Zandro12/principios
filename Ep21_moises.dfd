@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+18
+salario, categoria
+7
+1
+1
+47
+categoria = 1 or categoria = 2 or categoria = 3
+7
+1
+1
+13
+categoria = 1
+6
+2
+5
+total
+12
+salario*0.15
+12
+nuevosalario
+13
+salario+total
+13
+7
+1
+1
+13
+categoria = 2
+6
+2
+5
+total
+12
+salario*0.20
+12
+nuevosalario
+13
+salario+total
+13
+7
+1
+1
+13
+categoria = 3
+6
+2
+5
+total
+12
+salario*0.25
+12
+nuevosalario
+13
+salario+total
+13
+13
+13
+13
+4
+1
+34
+"Nuevo salario es: ", nuevosalario
+13
+4
+1
+45
+"Debe seleccionar una de las tres categorias"
+13
+1
