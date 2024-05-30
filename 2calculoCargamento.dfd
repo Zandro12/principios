@@ -1,0 +1,34 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+4
+peso
+7
+1
+1
+8
+peso>=50
+6
+1
+5
+monto
+9
+peso*1500
+13
+6
+1
+5
+monto
+9
+peso*1000
+13
+4
+1
+34
+'El monto a pagar es de :  ',monto
+1
