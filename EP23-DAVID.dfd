@@ -1,0 +1,88 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+26
+codigoVendedor, montoVenta
+7
+1
+1
+16
+codigoVendedor=1
+6
+2
+7
+aumento
+15
+montoVenta*0.10
+8
+comision
+18
+montoVenta+aumento
+4
+1
+164
+"Debido a su codigo vendedor: ",codigoVendedor, " usted tiene una comision del 10% sobre lo vendido que fue: ", montoVenta, " por ende su comision es de: ",comision
+13
+7
+1
+1
+59
+codigoVendedor>=2 and codigoVendedor<=5 or codigoVendedor=7
+6
+2
+7
+aumento
+15
+montoVenta*0.05
+8
+comision
+18
+montoVenta+aumento
+4
+1
+163
+"Debido a su codigo vendedor: ",codigoVendedor, " usted tiene una comision del 5% sobre lo vendido que fue: ", montoVenta, " por ende su comision es de: ",comision
+13
+7
+1
+1
+57
+codigoVendedor=6 or codigoVendedor=9 or codigoVendedor=12
+6
+2
+7
+aumento
+16
+montoVenta*0.015
+8
+comision
+18
+montoVenta+aumento
+4
+1
+165
+"Debido a su codigo vendedor: ",codigoVendedor, " usted tiene una comision del 1.5% sobre lo vendido que fue: ", montoVenta, " por ende su comision es de: ",comision
+13
+6
+2
+7
+aumento
+15
+montoVenta*0.01
+8
+comision
+18
+montoVenta+aumento
+4
+1
+163
+"Debido a su codigo vendedor: ",codigoVendedor, " usted tiene una comision del 1% sobre lo vendido que fue: ", montoVenta, " por ende su comision es de: ",comision
+13
+13
+13
+1
